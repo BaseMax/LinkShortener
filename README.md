@@ -8,14 +8,13 @@ The service will soon be available on the Internet.
 
 We will publish the URL.
 
-## Copyright
-
-Any upload, copying and use of the works is forbidden.
-
 ## Foundation
 
-
+ * Pure CSS
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Vue.js v2.6.8
- * vue-resource v1.5.1
-   
+ * Vanilla Javascript
+ * Vue Resource v1.5.1
+ * Nginx 1.14.2
+ * Unix BSD
+ *
