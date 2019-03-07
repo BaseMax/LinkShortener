@@ -32,6 +32,8 @@ We will publish the URL.
  * ET Programming Language
  * C  Programming Language
 
+It was also tested with **Ruby**, **Rust**, **Go** technologies.
+
 
 ## Copyright
 
