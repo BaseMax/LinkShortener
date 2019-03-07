@@ -48,6 +48,9 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
   - vue.min.js
   - cgi.et
   - cgi.c
+  
+- Makefile
+
 
 
 ## Copyright
