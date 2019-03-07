@@ -25,6 +25,9 @@ We will publish the URL.
  * Nginx 1.14.2
  * Jan
 
+**`Database`**
+* NoSql
+
 **`Operation System`**
  * Unix BSD
 
