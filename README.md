@@ -34,6 +34,21 @@ We will publish the URL.
 
 It was also tested with **Ruby**, **Rust**, **Go** technologies.
 
+## Files
+
+- src
+  - index.html
+  - ads.jpg
+  - logo.svg
+  - bootstrap.css
+  - script.js
+  - vue.js
+  - bootstrap.css.map
+  - style.css
+  - vue.min.js
+  - cgi.et
+  - cgi.c
+
 
 ## Copyright
 
