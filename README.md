@@ -10,20 +10,27 @@ We will publish the URL.
 
 ## Foundation
 
+
+**`Client Side`**
+
  * Pure CSS
  * Vanilla Javascript
 
-**`Librarys :`**
+**`Librarys`**
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Vue.js v2.6.8
  * Vue Resource v1.5.1
 
-**`Web Server :`**
+**`Web Server`**
  * Nginx 1.14.2
  * Jan
 
-**`Operation System :`**
+**`Operation System`**
  * Unix BSD
+
+**`Server Side`**
+ * ET Programming Language
+ * C  Programming Language
 
 
 ## Copyright
