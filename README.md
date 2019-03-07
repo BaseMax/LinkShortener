@@ -49,6 +49,10 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
   - cgi.et
   - cgi.c
   
+- test
+ - tests.py
+ - backend.sh
+ 
 - Makefile
 
 
