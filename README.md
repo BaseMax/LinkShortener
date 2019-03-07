@@ -11,10 +11,27 @@ We will publish the URL.
 ## Foundation
 
  * Pure CSS
+ * Vanilla Javascript
+
+**`Librarys :`**
  * Bootstrap v4.3.1 (https://getbootstrap.com/)
  * Vue.js v2.6.8
- * Vanilla Javascript
  * Vue Resource v1.5.1
+
+**`Web Server :`**
  * Nginx 1.14.2
+ * Jan
+
+**`Operation System :`**
  * Unix BSD
- *
+
+
+## Copyright
+
+Any upload, copying and use of the works is forbidden.
+
+ - Read codes are allowed.
+ - Cut, copying code is not allowed.
+ - Uploading files is not allowed.
+ - Downloading for storing is not allowed.
+
