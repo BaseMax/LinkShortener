@@ -36,7 +36,7 @@ We will publish the URL.
  * Rust  Programming Language
  * Go  Programming Language
  * C  Programming Language
- * ET Programming Language (Final version)
+ * **ET Programming Language (Final version)**
 
 It was also tested with **Ruby**, **Rust**, **Go** technologies.
 
