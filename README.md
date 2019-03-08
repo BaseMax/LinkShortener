@@ -39,27 +39,56 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
 
 ## Files
 
-- src
-  - index.html
-  - ads.jpg
-  - logo.svg
-  - bootstrap.css
-  - script.js
-  - vue.js
-  - bootstrap.css.map
-  - style.css
-  - vue.min.js
-  - cgi.et
-  - cgi.c
-  
-- test
+```
+.
+├── asset
+│   ├── ads.jpg
+│   ├── bootstrap.css
+│   ├── bootstrap.css.map
+│   ├── index.html
+│   ├── logo.svg
+│   ├── script.js
+│   ├── style.css
+│   ├── vue-resource.js
+│   └── vue.js
+├── build
+│   ├── array.o
+│   ├── cgi.o
+│   ├── data.o
+│   ├── decodequery.o
+│   ├── main
+│   ├── multipart.o
+│   ├── request.o
+│   ├── route.o
+│   └── socket.o
+├── build.sh
+├── serve
+├── serve.pid
+├── source
+│   ├── array.et
+│   ├── array.eth
+│   ├── cgi.et
+│   ├── cgi.eth
+│   ├── data.et
+│   ├── data.eth
+│   ├── decodequery.et
+│   ├── decodequery.eth
+│   ├── main.et
+│   ├── main.eth
+│   ├── multipart.et
+│   ├── multipart.eth
+│   ├── request.et
+│   ├── request.eth
+│   ├── route.et
+│   ├── route.eth
+│   ├── socket.et
+│   └── socket.eth
+└── test
+    ├── decodequery.et
+    └── test.eth
 
-  - tests.py
-  - backend.sh
- 
-- Makefile
-- build.sh
-
+4 directories, 41 files
+```
 
 ## Copyright
 
