@@ -101,7 +101,6 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
 └── test
     ├── decodequery
     ├── decodequery.et
-    ├── decodequery.core
     └── test.eth
 
 4 directories, 41 files
