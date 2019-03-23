@@ -55,15 +55,19 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
 │   ├── vue-resource.js
 │   └── vue.js
 ├── build
-│   ├── array.o
-│   ├── cgi.o
-│   ├── data.o
-│   ├── decodequery.o
-│   ├── main
-│   ├── multipart.o
-│   ├── request.o
-│   ├── route.o
-│   └── socket.o
+│   ├── api.o
+│   ├── array.o
+│   ├── cgi.o
+│   ├── data.o
+│   ├── database.o
+│   ├── decodequery.o
+│   ├── layout.o
+│   ├── main
+│   ├── multipart.o
+│   ├── random.o
+│   ├── request.o
+│   ├── route.o
+│   └── socket.o
 ├── build.sh
 ├── serve
 ├── serve.pid
