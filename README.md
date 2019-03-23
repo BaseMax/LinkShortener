@@ -68,12 +68,16 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
 ├── serve
 ├── serve.pid
 ├── source
+│   ├── api.et
+│   ├── api.eth
 │   ├── array.et
 │   ├── array.eth
 │   ├── cgi.et
 │   ├── cgi.eth
 │   ├── data.et
 │   ├── data.eth
+│   ├── database.et
+│   ├── database.eth
 │   ├── decodequery.et
 │   ├── decodequery.eth
 │   ├── main.et
@@ -85,7 +89,11 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
 │   ├── route.et
 │   ├── route.eth
 │   ├── socket.et
-│   └── socket.eth
+│   ├── socket.eth
+│   ├── random.et
+│   ├── random.eth
+│   ├── layout.et
+│   └── layout.eth
 └── test
     ├── decodequery.et
     └── test.eth
