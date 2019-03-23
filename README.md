@@ -103,7 +103,7 @@ It was also tested with **Ruby**, **Rust**, **Go** technologies.
     ├── decodequery.et
     └── test.eth
 
-4 directories, 41 files
+4 directories, 54 files
 ```
 
 ## Copyright
