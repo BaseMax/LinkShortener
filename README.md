@@ -6,7 +6,7 @@ Link Shortener is a free and useful service to create a short link then redirect
 
 The service will soon be available on the Internet.
 
-We will publish the URL.
+We will publish the URL. (SOON)
 
 ## Foundation
 
