@@ -110,3 +110,11 @@ def link(identifier):
 		else:
 			message="Wrong link!"
 			return render_template('link_index.html', error=True, message=message, identifier=identifier, site=site, mainSite=mainSite)
+
+		
+if __name__ == '__main__':
+	connection = MongoClient(MONGODB_HOST, MONGODB_PORT)
+	collectionLink = connection[DB_NAME][COLLECTION_LINK]
+	# app.run(host='asrez.com', port=80, debug=False)
+	app.run(port=80)
+
