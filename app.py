@@ -10,3 +10,13 @@ import json
 from pymongo import MongoClient
 from bson import json_util
 from flask import redirect
+
+MONGODB_HOST = 'localhost'
+MONGODB_PORT = 27017
+DB_NAME = 'Asrez'
+COLLECTION_LINK="Link"
+
+class flaskLocal(Flask):
+	def process_response(self, response):
+		# response.headers
+		return(response)
